@@ -1,1 +1,1 @@
-# ok
+This is a repository for a developing Active Noise Cancelling Headphone project that will be built using Embedded Software (C/C++) in order to build my skills in assmebling circuits, using and reading sensors and communication buses, signal processing, RTOS and more. 
